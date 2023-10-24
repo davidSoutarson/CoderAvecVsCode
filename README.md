@@ -43,3 +43,5 @@ gitignore tous les fichiers générés, qui n'ont pas besoin d'être stockés su
 notamment pour un gain de place.
 
 ## ses dure
+
+### vs code ses de la M2!
