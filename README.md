@@ -42,8 +42,6 @@ Mais, concrètement, quels types de fichiers doivent être ignorés, et pourquoi
 gitignore tous les fichiers générés, qui n'ont pas besoin d'être stockés sur le serveur,
 notamment pour un gain de place.
 
-## ses dure
+## je sincronise git et gitHud grace a un jeton
 
-### vs code ses de la M2
-
-## ces pas mieux mes on avence
+je peu mieux faire
