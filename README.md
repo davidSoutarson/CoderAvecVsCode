@@ -44,4 +44,4 @@ notamment pour un gain de place.
 
 ## ses dure
 
-### vs code ses de la M2!
+### vs code ses de la M2
