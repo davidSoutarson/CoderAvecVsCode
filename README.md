@@ -1,6 +1,6 @@
 # Coder avec vs Code
 
-Dans se projet vais voire comment je peu coder avec vs code.
+Dans se projet vais voire coment je peu coder avec vs code.
 
 Je vais aucie realiser ce fichier README.md et me familiariser avec le langage Mardown.
 
