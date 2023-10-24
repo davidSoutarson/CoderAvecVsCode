@@ -45,3 +45,5 @@ notamment pour un gain de place.
 ## ses dure
 
 ### vs code ses de la M2
+
+## ces pas mieux mes on avence
