@@ -41,3 +41,5 @@ gitinor et fichier dans le quel on va ecrie la lite des fichier docier ou = repe
 Mais, concrètement, quels types de fichiers doivent être ignorés, et pourquoi ? On ajoutera d'abord au .
 gitignore tous les fichiers générés, qui n'ont pas besoin d'être stockés sur le serveur,
 notamment pour un gain de place.
+
+## ses dure
