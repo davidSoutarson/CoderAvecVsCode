@@ -49,7 +49,7 @@ See 'git help <'''command'''> to read about a specific subcommand
 * Main Porcelain Commands
   |commande         |action |
   |:---------------:|:---------------|
-  | add </br>add .    |Add file contents to the index </br> _Utilisation FR :_ **aad** Ajoute les ficher a l'index, fichier non suivie ou modifier, utiliser la Commed **git add .** avant de faire un commit.  |
+  | add </br>add .    |Add file contents to the index </br> _Utilisation Fr :_ **aad** Ajoute les ficher a l'index, fichier non suivie ou modifier, utiliser la Command **git add .** avant de faire un commit.  |
   | am      |Apply a series of patches from a mailbox |
   | archive |Create an archive of files from a named tree |
   | bisect  |Use binary search to find the commit that introduced a bug |
